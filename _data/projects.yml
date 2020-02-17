@@ -1,0 +1,95 @@
+- name: Aljurythm
+  url: https://github.com/YoussefRaafatNasry/aljurythm
+  tagline: A judge for Algorithm Course.
+  description:
+    Aljurythm is a code judge that I have created for my Algorithms Course's Assignments,
+    to replace boilerplate code and display better outputs. It's like a mini-testing framework.
+
+- name: Detoxicated
+  url: https://youssefraafatnasry.me/detoxicated/
+  tagline: Tracking my Social Media Detox
+  description:
+    A site to keep track of the detailed time since I left Facebook and Instagram.
+    I think you should try quitting it too.
+
+- name: otto
+  url: https://youssefraafatnasry.github.io/otto/
+  tagline: otto-matic replies for chatting apps
+  description:
+    otto is a smart assistant that can reply to basic questions on chatting apps
+    like WhatsApp, Messenger, etc. He can also do basic tasks like liking tracks on
+    spotify when someone sends him a track link.
+
+- name: RESx
+  url: https://resx.github.io/
+  tagline: Courses' materials and resources
+  description:
+    An unofficial collaborating community for updating and organizing learning
+    resources of Faculty of Computer and Information Sciences at Ain Shams University.
+
+- name: portfolYOU
+  url: https://youssefraafatnasry.github.io/portfolYOU/
+  tagline: Modern portfolio HTML template
+  description:
+    portfolYOU is a free modern open-source Jekyll portfolio and blogging theme that works
+    with GitHub Pages with a plenty of elements and alot of possible customizations.
+
+- name: ScoutsEncoder
+  url: https://youssefraafatnasry.github.io/ScoutsEncoder/
+  tagline: Encode arabic text into scouts' ciphers
+  description:
+    An open source WPF application that encodes arabic plain text into
+    scouts' ciphers with a single button click. Usually leaders used to do
+    the encoding using a pen and paper.
+
+- name: Git for Wizards
+  url: https://github.com/YoussefRaafatNasry/git-for-wizards/
+  tagline: Magic spells for Git & GitHub
+  description:
+    A repo about Git & GitHub where I expose most of the magic spells that
+    I have learned and the magic wands that I use regularly.
+
+- name: CP Journey
+  url: https://github.com/YoussefRaafatNasry/cp-journey/
+  tagline: My journey into Competitive Programming
+  description:
+    Learning alot of data structures and algorithms and solving much more problems
+    to improve my problem solving and critical thinking skills.
+
+- name: DRG
+  url: https://github.com/YoussefRaafatNasry/dummy-repo-generator/
+  tagline: Dummy repo generator
+  description:
+    A bash script to generate git repository with dummy commits, helpful for educational
+    purposes and to try new git commands without destroying real-life repositories.
+
+- name: Identicon Generator
+  url: https://github.com/YoussefRaafatNasry/identicon-generator/
+  tagline: Generate avatars like GitHub
+  description:
+    An Identicon is a visual representation of a hash value, usually of an IP address,
+    that serves to identify a user of a computer system as a form of avatar while
+    protecting the users' privacy.
+
+- name: BST ASCII Visualization
+  url: https://github.com/YoussefRaafatNasry/bst-ascii-visualization/
+  tagline: C++ based algorithm for visualizing Binary Search Trees
+  description:
+    A command line tool for visualizing Binary Search Trees using an algorithm
+    I have developed myself from multiple algorithms that are available in
+    my case study.
+
+# - name: The Artopital
+#   url: https://www.facebook.com/TheArtopital/
+#   tagline: Quotes from Movies and TV Shows
+#   description:
+#     The Artopital is a facebook page where I post quotes that I loved from
+#     movies or TV shows I watched. Also a good place to know what I am currently watching.
+
+- name: Teemato
+  url: https://www.facebook.com/teemato.eg/
+  tagline: Startup for making seniors' garments
+  description:
+    Teemato aims at helping High School Seniors in creating their outfits
+    (T-shirts, Hoodies & Bracelets) from scratch using creative designs and
+    high quality fabrics.
